@@ -1,0 +1,18 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(challenges.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(related-1.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(related-2.jpg);
+}
+.carousel-item {
+  height: 32rem;
+}
